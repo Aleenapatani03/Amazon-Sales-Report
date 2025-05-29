@@ -1,14 +1,14 @@
 # Amazon Sales Prediction
 
-##Objective:
+## Objective:
 Predict the sales amount (Amount) of products in the Amazon Sale Report dataset using regression machine learning techniques.
 
-##Dataset:
+## Dataset:
 The dataset contains historical sales records from Amazon, including various features such as product details, sales quantities, dates, and potentially other relevant attributes influencing sales.
 
-##Key Steps:
+## Key Steps:
 
-##Data Exploration & Cleaning:
+## Data Exploration & Cleaning:
 
 Understanding data types and distributions
 
@@ -18,30 +18,30 @@ Converting categorical variables using encoding techniques (e.g., label encoding
 
 Feature scaling if needed
 
-##Feature Engineering:
+## Feature Engineering:
 
 Creating new features that may improve model performance (e.g., time-based features, sales trends)
 
 Selecting important features relevant to predicting sales amount
 
-##Model Building:
+## Model Building:
 
 Splitting data into training and testing sets
 
 Training regression models such as Linear Regression, Decision Tree Regressor, Random Forest Regressor, or Gradient Boosting
 
 
-##Model Evaluation:
+## Model Evaluation:
 
 Using metrics like Mean Squared Error (MSE), and R-squared (R²) to evaluate model performance
 
 Comparing multiple models to choose the best performer
 
-##Insights & Predictions:
+## Insights & Predictions:
 
 Using the trained model to predict future sales amounts
 
 Analyzing factors that significantly affect sales
 
-##Outcome:
+## Outcome:
 A machine learning model that accurately predicts the sales amount (Amount) based on input features, helping to forecast sales and assist in inventory and marketing decisions.
