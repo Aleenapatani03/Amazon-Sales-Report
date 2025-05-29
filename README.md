@@ -4,8 +4,7 @@
 Predict the sales amount (Amount) of products in the Amazon Sale Report dataset using regression machine learning techniques.
 
 ## Dataset:
-The dataset contains historical sales records from Amazon, including various features such as product details, sales quantities, dates, and potentially other relevant attributes influencing sales.
-
+https://data.world/jegazhu/amazon-products-data/workspace/file?filename=Amazon%20Sale%20Report.csv
 ## Key Steps:
 
 ## Data Exploration & Cleaning:
